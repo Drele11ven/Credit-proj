@@ -1,7 +1,7 @@
 # Credit-proj
 an index page designing only with bootstrap studio a page about invest your capital in blockchain 
   
-  ##its all about challenging my self and using gui developing IDE and try not to simpilified my work with code
+its all about challenging my self and using gui developing IDE and try not to simpilified my work with code
 
 Im really enjoyed it and it was a good exprience for me 
 
